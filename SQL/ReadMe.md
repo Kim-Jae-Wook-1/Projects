@@ -1,7 +1,7 @@
 # Online Retail Data Processing with Python and SQL
 
 ## Overview
-This project is a small data processing and SQL analysis project based on the Online Retail dataset.
+This project is an initiave data processing and SQL analysis project based on the Online Retail dataset.
 
 The goal of this project was to practice a simple data workflow:
 - loading Excel data with Python
