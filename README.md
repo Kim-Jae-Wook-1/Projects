@@ -24,7 +24,27 @@ Projects
 
 ## Project Summary
 
-### Projects/SQL-mini/
+### Projects/Python
+Python-based survey data analysis project.
+
+Contents:
+- `Project.pdf` : full report
+- `ReadMe.md` : project-level description
+
+### Projects/R
+R-based data analysis project on the `crabs` dataset (MASS package).
+
+Contents:
+- `Statistical_analysis_methods_in_R.pdf` : full report covering:
+  - correlation and linear regression analysis including MRAE comparison
+  - PCA and SVD for dimension reduction and latent factor interpretation
+  - hidden ranking factor computation
+  - K-means clustering
+  - contingency table analysis
+  - bootstrap evaluation for estimation stability
+- `ReadMe.md` : folder-level description summarizing methodology-focused R analysis
+
+### Projects/SQL-mini
 Mini project on retail transaction data using Python, SQLite, and SQL.
 
 Contents:
@@ -35,9 +55,4 @@ Contents:
 - `country_sales_summary.csv` : exported query result
 - `ReadMe.md` : project-level description
 
-### Projects/Python/
-Python-based survey data analysis project.
 
-Contents:
-- `Project.pdf` : full report
-- `ReadMe.md` : project-level description
