@@ -29,13 +29,13 @@ The following preprocessing steps were applied:
 - created a new column `TotalPrice = Quantity * UnitPrice`
 
 ## Example SQL Analysis
-The project includes SQL queries for:
-- first 5 rows of the dataset
-- transaction count by country
-- total sales by country
-- top products by quantity sold
-- top products by total revenue
-
+The project includes SQLite-based SQL queries using the following clauses and functions:
+- `SELECT`, `FROM`, `LIMIT` for viewing the first rows of the dataset
+- `SELECT`, `FROM`, `GROUP BY`, `COUNT(*)`, `ORDER BY`, and `DESC` for transaction count by country
+- `SELECT`, `FROM`, `GROUP BY`, `SUM(TotalPrice)`, `ORDER BY`, and `DESC` for total sales by country
+- `SELECT`, `FROM`, `GROUP BY`, `SUM(Quantity)`, `ORDER BY`, `DESC`, and `LIMIT` for top products by quantity sold
+- `SELECT`, `FROM`, `GROUP BY`, `SUM(TotalPrice)`, `ORDER BY`, `DESC`, and `LIMIT` for top products by total revenue
+  
 ## Outcome
 This project helped build a basic end-to-end workflow using Python and SQL for structured retail data.
 
