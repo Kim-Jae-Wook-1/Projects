@@ -16,10 +16,9 @@ The goal of this project was to practice a simple data workflow:
 - SQL
 
 ## Files
-- `load_and_clean_data.py`: loads the Excel file, cleans the data, and saves it into SQLite
+- `clean_and_save_db.py`: loads the Excel file, cleans the data, and saves it into SQLite DB
 - `run_sql_analysis.py`: runs SQL queries on the SQLite database
 - `country_sales_summary.csv`: country-level sales summary
-- `top_products_by_revenue.csv`: product-level revenue summary
 
 ## Data Cleaning
 The following preprocessing steps were applied:
