@@ -1,10 +1,10 @@
-# Data Project Portfolio
-
-Portfolio of small Python- and SQL-based data projects.
-
 ## Structure
 
+```text
 Projects/
+├── Python/
+│   ├── Project.pdf
+│   └── ReadMe.md
 ├── SQL-mini/
 │   ├── Online Retail.xlsx
 │   ├── ReadMe.md
@@ -12,10 +12,8 @@ Projects/
 │   ├── country_sales_summary.csv
 │   ├── load_and_clean_data.py
 │   └── run_sql_analysis.py
-├── Python/
-│   ├── Project.pdf
-│   └── ReadMe.md
 └── README.md
+```
 
 ## Project Summary
 
