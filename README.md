@@ -11,7 +11,7 @@ Projects
 │   ├── Statistical_analysis_methods_in_R.pdf
 │   └── ReadMe.md
 │
-├── SQL-mini
+├── SQL
 │   ├── Online Retail.xlsx
 │   ├── ReadMe.md
 │   ├── clean_and_save_db.py
@@ -24,14 +24,14 @@ Projects
 
 ## Project Summary
 
-### Projects/Python
+### Python
 Python-based survey data analysis project.
 
 Contents:
 - `Project.pdf` : full report
 - `ReadMe.md` : project-level description
 
-### Projects/R
+### R
 R-based data analysis project on the `crabs` dataset (MASS package).
 
 Contents:
@@ -44,7 +44,7 @@ Contents:
   - bootstrap evaluation for estimation stability
 - `ReadMe.md` : folder-level description summarizing methodology-focused R analysis
 
-### Projects/SQL-mini
+### SQL
 Mini project on retail transaction data using Python, SQLite, and SQL.
 
 Contents:
