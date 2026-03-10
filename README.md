@@ -16,7 +16,6 @@ Projects
 │   ├── ReadMe.md
 │   ├── clean_and_save_db.py
 │   ├── country_sales_summary.csv
-│   ├── load_and_clean_data.py
 │   └── run_sql_analysis.py
 │
 └── README.md
