@@ -2,12 +2,15 @@
 
 ```text
 Projects
+│
 ├── Python
 │   ├── Project.pdf
 │   └── ReadMe.md
+│
 │── R
 │   ├── Statistical_analysis_methods_in_R.pdf
 │   └── ReadMe.md
+│
 ├── SQL-mini
 │   ├── Online Retail.xlsx
 │   ├── ReadMe.md
@@ -15,6 +18,7 @@ Projects
 │   ├── country_sales_summary.csv
 │   ├── load_and_clean_data.py
 │   └── run_sql_analysis.py
+│
 └── README.md
 ```
 
